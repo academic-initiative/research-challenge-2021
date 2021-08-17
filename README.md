@@ -1,4 +1,4 @@
-# 2021 Welcome to the Call for Code Research Challenge
+# Welcome to the 2021 Call for Code Research Challenge
 
 ## Quick Links
 - [How to access the Jupyter notebook environment](/jupyter-platform/getting-started.md)
@@ -8,9 +8,9 @@
 Climate Change is without a doubt one of the most pressing issues of our time. Leverage data from the Weather Operations Center Geospatial Analytics engine (PAIRS) or bring your own data to tackle the impacts of climate change on our planet and communities.
 
 Build a solution or prototypes that help address climate change via:
-- sustainable water use ([starter kit]())
-- resilient agriculture ([starter kit]())
-- responsible production ([starter kit]())
+- sustainable water use ([starter kit](https://github.com/Call-for-Code/Solution-Starter-Kit-Water-2021/))
+- resilient agriculture ([starter kit](https://github.com/Call-for-Code/Solution-Starter-Kit-Production-2021/))
+- responsible production ([starter kit](https://github.com/Call-for-Code/Solution-Starter-Kit-Production-2021/))
 - Climate risk and impact (quantifying the risk to socioeconomic and natural systems of current and future climate change).
 
 ## Submissions
