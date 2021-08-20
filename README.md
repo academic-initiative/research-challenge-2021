@@ -58,11 +58,11 @@ Please join the following channels in the workspace:
 
 ## Resources
 
-- [IBM Cloud](cloud.ibm.com) ([Docs](https://cloud.ibm.com/docs))
-- [IBM Academic Initiative](ibm.com/academic) ([FAQ](https://www.ibm.com/academic/faqs/faqs))
+- [IBM Cloud](https://cloud.ibm.com) ([Docs](https://cloud.ibm.com/docs))
+- [IBM Academic Initiative](https://ibm.com/academic) ([FAQ](https://www.ibm.com/academic/faqs/faqs))
 
 
 ## How To
 - [How to access the Jupyter notebook environment](/jupyter-platform/getting-started.md)
-- [How to access the IBM Academic Initiative](/how-to/how-to-academic-initiative.md)
-- [How to access IBM Cloud](/how-to/hot-to-ibm-cloud.md)
+- [How to access the IBM Academic Initiative](/how-to/how-to-access-the-ibm-academic-initiative/how-to-access-the-ibm-academic-initiative.md)
+- [How to access IBM Cloud](/how-to/how-to-access-ibm-cloud/how-to-access-ibm-cloud.md)
