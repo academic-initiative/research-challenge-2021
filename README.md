@@ -6,7 +6,7 @@ INSERT WELCOME MESSAGE
 - [Focus areas](#focus-areas)
 - [Eligibility](#eligibility)
 - [Timeline](#timeline)
-- [Submissions](#sibmissions)
+- [Submissions](#submissions)
 - [Judging](#judging)
 - [Getting help](#getting-help)
 - [Assets](#assets)
@@ -81,14 +81,8 @@ Please join the following channels in the workspace:
 
 - [IBM Pairs](https://github.com/IBM/ibmpairs)
 - [Jupyter Environment](https://ibm.biz/cfcnotebook) ([How to access](/jupyter-platform/getting-started.md))
-- [IBM Cloud](https://cloud.ibm.com) ([Docs](https://cloud.ibm.com/docs)) ([Catalog](https://cloud.ibm.com/catalog))
-- [IBM Academic Initiative](https://ibm.com/academic) ([FAQ](https://www.ibm.com/academic/faqs/faqs))
+- [IBM Cloud](https://cloud.ibm.com) ([Docs](https://cloud.ibm.com/docs)) ([Catalog](https://cloud.ibm.com/catalog)) ([How to access](/how-to/how-to-access-ibm-cloud/how-to-access-ibm-cloud.md))
+- [IBM Academic Initiative](https://ibm.com/academic) ([FAQ](https://www.ibm.com/academic/faqs/faqs)) ([How to access](/how-to/how-to-access-the-ibm-academic-initiative/how-to-access-the-ibm-academic-initiative.md))
 
 <br />
 Have fun! Build the next great thing and change the world for the better!
-
-
-## How To
-- [How to access the Jupyter notebook environment](/jupyter-platform/getting-started.md)
-- [How to access the IBM Academic Initiative](/how-to/how-to-access-the-ibm-academic-initiative/how-to-access-the-ibm-academic-initiative.md)
-- [How to access IBM Cloud](/how-to/how-to-access-ibm-cloud/how-to-access-ibm-cloud.md)
