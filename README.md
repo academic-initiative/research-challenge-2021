@@ -8,6 +8,7 @@ INSERT WELCOME MESSAGE
 - [Timeline](#timeline)
 - [Submissions](#submissions)
 - [Judging](#judging)
+- [Jupyter Environment](#jupyter-environment)
 - [Getting help](#getting-help)
 - [Assets](#assets)
 
@@ -69,6 +70,13 @@ The solutions should be such that they can be extended and expanded upon. You wi
 - Design and usability
 - Creativity and innovation
 
+## Jupyter Environment
+As part of this challenge we are providing participants with a cloud-based environment with which they can run Jupyter notebooks and explore some of our IBM Pairs and Weather Company examples.  Learn more using the links below.
+- [Jupyter Environment](https://ibm.biz/cfcnotebook)
+- [Welcome Page](/jupyter-platform/readme.md)
+- [How to access](/jupyter-platform/getting-started.md)
+
+
 ## Getting help
 
 In the Slack workspace, you’ll be able to find other participants, join or build teams, brainstorm and collaborate on ideas, and communicate with the challenge Champions and Subject Matter Experts for mentoring and technical guidance. [Join the Slack](https://join.slack.com/t/callforcodere-ju79661/shared_invite/zt-uc2w9nn4-zEf9urnpE1c7~EIGJblx_Q)
@@ -80,7 +88,7 @@ Please join the following channels in the workspace:
 ## Assets
 
 - [IBM Pairs](https://github.com/IBM/ibmpairs)
-- [Jupyter Environment](https://ibm.biz/cfcnotebook) ([How to access](/jupyter-platform/getting-started.md))
+
 - [IBM Cloud](https://cloud.ibm.com) ([Docs](https://cloud.ibm.com/docs)) ([Catalog](https://cloud.ibm.com/catalog)) ([How to access](/how-to/how-to-access-ibm-cloud/how-to-access-ibm-cloud.md))
 - [IBM Academic Initiative](https://ibm.com/academic) ([FAQ](https://www.ibm.com/academic/faqs/faqs)) ([How to access](/how-to/how-to-access-the-ibm-academic-initiative/how-to-access-the-ibm-academic-initiative.md))
 
