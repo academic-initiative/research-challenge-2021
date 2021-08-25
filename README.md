@@ -73,7 +73,7 @@ The solutions should be such that they can be extended and expanded upon. You wi
 ## Jupyter Environment
 As part of this challenge we are providing participants with a cloud-based environment with which they can run Jupyter notebooks and explore some of our IBM Pairs and Weather Company examples.  Learn more using the links below.
 - [Jupyter Environment](https://ibm.biz/cfcnotebook)
-- [Welcome Page](/jupyter-platform/readme.md)
+- [Welcome page](/jupyter-platform/readme.md)
 - [How to access](/jupyter-platform/how-to-access.md)
 
 
