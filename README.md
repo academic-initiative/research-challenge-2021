@@ -38,7 +38,7 @@ https://developer.ibm.com/blogs/call-for-code-research-spot-challenge-for-climat
 
 ## Eligibility
 
-Graduate students, or advanced undergraduate students with experience or high interest in research, at least 18 years old and studying full- or part-time at any of the participating universities are eligible to participate. We will be asking you to form teams of 1-5 students. You can create a team among yourselves or join a team through the team-building Slack channel created for this event.
+Graduate students, including advanced undergraduate students with experience or high interest in research, at least 18 years old and studying full- or part-time at any of the participating universities are eligible to participate. We will be asking you to form teams of 1-5 students. You can create a team among yourselves or join a team through the team-building Slack channel created for this event.
 
 Participating universities
 - [MIT](https://web.mit.edu)
@@ -54,8 +54,8 @@ Participating universities
 - - Session 1:  2:00 AM PDT (Japan + Europe)
 - - Session 2:  4:00 PM PDT (United States)
 - **September 27:**	11:59 PM PDT Submissions due
-- **September 28:**	2:00 AM PDT Career/Mentoring Event (Japan)
-- **September 29:**	9:00 AM PDT Career/Mentoring Panel Event 
+- **September 28:**	2:00 AM PDT Career/Mentoring Event (Japanese)
+- **September 29:**	9:00 AM PDT Career/Mentoring Panel Event (English)
 - **October 4:** 6:00 AM PDT Closing ceremony
 
 ## Submissions
@@ -92,7 +92,9 @@ In the Slack workspace, you’ll be able to find other participants, join or bui
 
 Please join the following channels in the workspace:
 
-[#2021-research-challenge](https://callforcode-research.slack.com/archives/C02BVGGJDJ7)
+[#2021-research-challenge](https://callforcode-research.slack.com/archives/C02BVGGJDJ7): Stay up-to-date with all things related to the Research Challenge
+[#helpdesk](https://callforcode-research.slack.com/archives/C02BGJ9U935): Mentors will respond to general and technical questions
+[#teambuidling](https://callforcode-research.slack.com/archives/C02BV1CDS7K): Join If you are still looking to join or create a team
 
 <br />
 Have fun! Build the next great thing and change the world for the better!
