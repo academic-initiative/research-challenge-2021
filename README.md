@@ -10,9 +10,9 @@ Now we are coming together with some of the top research universities: [The Univ
 - [Timeline](#timeline)
 - [Submissions](#submissions)
 - [Judging](#judging)
+- [Assets](#assets)
 - [Jupyter Environment](#jupyter-environment)
 - [Getting help](#getting-help)
-- [Assets](#assets)
 
 
 ## Focus areas
@@ -72,6 +72,13 @@ The solutions should be such that they can be extended and expanded upon. You wi
 - Design and usability
 - Creativity and innovation
 
+## Assets
+
+- [IBM Pairs](https://github.com/IBM/ibmpairs) (API)(DOCS)
+- [The Weather Company]() (DOCS)
+- [IBM Cloud](https://cloud.ibm.com) ([Docs](https://cloud.ibm.com/docs)) ([Catalog](https://cloud.ibm.com/catalog)) ([How to access](/how-to/how-to-access-ibm-cloud/how-to-access-ibm-cloud.md))
+- [IBM Academic Initiative](https://ibm.com/academic) ([FAQ](https://www.ibm.com/academic/faqs/faqs)) ([How to access](/how-to/how-to-access-the-ibm-academic-initiative/how-to-access-the-ibm-academic-initiative.md))
+
 ## Jupyter Environment
 As part of this challenge we are providing participants with a cloud-based environment with which they can run Jupyter notebooks and explore some of our IBM Pairs and Weather Company examples.  Learn more using the links below.
 - [Jupyter Environment](https://ibm.biz/cfcnotebook)
@@ -86,13 +93,6 @@ In the Slack workspace, you’ll be able to find other participants, join or bui
 Please join the following channels in the workspace:
 
 [#2021-research-challenge](https://callforcode-research.slack.com/archives/C02BVGGJDJ7)
-
-## Assets
-
-- [IBM Pairs](https://github.com/IBM/ibmpairs) (API)(DOCS)
-- [The Weather Company]() (DOCS)
-- [IBM Cloud](https://cloud.ibm.com) ([Docs](https://cloud.ibm.com/docs)) ([Catalog](https://cloud.ibm.com/catalog)) ([How to access](/how-to/how-to-access-ibm-cloud/how-to-access-ibm-cloud.md))
-- [IBM Academic Initiative](https://ibm.com/academic) ([FAQ](https://www.ibm.com/academic/faqs/faqs)) ([How to access](/how-to/how-to-access-the-ibm-academic-initiative/how-to-access-the-ibm-academic-initiative.md))
 
 <br />
 Have fun! Build the next great thing and change the world for the better!
