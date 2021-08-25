@@ -1,6 +1,8 @@
 # Welcome to the 2021 Call for Code Research Challenge
 
-INSERT WELCOME MESSAGE
+Climate change has the potential to impact every living organism on the planet. For humans, its impact is already being felt across the continents. It is changing how we live, how we work, and how we interact with the environments we share with our fellow inhabitants of this planet. The situation is critical: Exhaustive scientific research has confirmed changing weather and temperature patterns, rapidly rising sea levels, and an intensifying proliferation of extreme weather events around the world.
+
+Now we are coming together with some of the top research universities: [The University of Tokyo](https://www.u-tokyo.ac.jp/en/), [ETH Zurich](https://ethz.ch/en.html), [EPFL](https://www.epfl.ch/en/), [MIT](https://web.mit.edu), [Stanford](https://www.stanford.edu) to offer graduate and advanced undergraduate students an amazing opportunity to grow your skills, expand your network, make a difference in the fight against climate change, and possibly win prizes in the Call for Code Research Spot Challenge for Climate Change.
 
 ## Contents
 - [Focus areas](#focus-areas)
@@ -39,11 +41,11 @@ https://developer.ibm.com/blogs/call-for-code-research-spot-challenge-for-climat
 Graduate students, or advanced undergraduate students with experience or high interest in research, at least 18 years old and studying full- or part-time at any of the participating universities are eligible to participate. We will be asking you to form teams of 1-5 students. You can create a team among yourselves or join a team through the team-building Slack channel created for this event.
 
 Participating universities
-- [MIT]()
-- [Stanford]()
-- [ETH Zurich]()
-- [EPFL]()
-- [The University of Tokyo]()
+- [MIT](https://web.mit.edu)
+- [Stanford](https://www.stanford.edu)
+- [ETH Zurich](https://ethz.ch/en.html)
+- [EPFL](https://www.epfl.ch/en/)
+- [The University of Tokyo](https://www.u-tokyo.ac.jp/en/)
 
 ## Timeline
 
@@ -73,7 +75,7 @@ The solutions should be such that they can be extended and expanded upon. You wi
 ## Jupyter Environment
 As part of this challenge we are providing participants with a cloud-based environment with which they can run Jupyter notebooks and explore some of our IBM Pairs and Weather Company examples.  Learn more using the links below.
 - [Jupyter Environment](https://ibm.biz/cfcnotebook)
-- [Welcome page](/jupyter-platform/readme.md)
+- [Jupyter welcome page](/jupyter-platform/readme.md)
 - [How to access](/jupyter-platform/how-to-access.md)
 
 
@@ -87,7 +89,8 @@ Please join the following channels in the workspace:
 
 ## Assets
 
-- [IBM Pairs](https://github.com/IBM/ibmpairs)
+- [IBM Pairs](https://github.com/IBM/ibmpairs) (API)(DOCS)
+- [The Weather Company]() (DOCS)
 - [IBM Cloud](https://cloud.ibm.com) ([Docs](https://cloud.ibm.com/docs)) ([Catalog](https://cloud.ibm.com/catalog)) ([How to access](/how-to/how-to-access-ibm-cloud/how-to-access-ibm-cloud.md))
 - [IBM Academic Initiative](https://ibm.com/academic) ([FAQ](https://www.ibm.com/academic/faqs/faqs)) ([How to access](/how-to/how-to-access-the-ibm-academic-initiative/how-to-access-the-ibm-academic-initiative.md))
 
