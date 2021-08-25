@@ -92,9 +92,9 @@ In the Slack workspace, you’ll be able to find other participants, join or bui
 
 Please join the following channels in the workspace:
 
-[#2021-research-challenge](https://callforcode-research.slack.com/archives/C02BVGGJDJ7): Stay up-to-date with all things related to the Research Challenge
-[#helpdesk](https://callforcode-research.slack.com/archives/C02BGJ9U935): Mentors will respond to general and technical questions
-[#teambuidling](https://callforcode-research.slack.com/archives/C02BV1CDS7K): Join If you are still looking to join or create a team
+- [#2021-research-challenge](https://callforcode-research.slack.com/archives/C02BVGGJDJ7): Stay up-to-date with all things related to the Research Challenge  
+- [#helpdesk](https://callforcode-research.slack.com/archives/C02BGJ9U935): Mentors will respond to general and technical questions  
+- [#teambuidling](https://callforcode-research.slack.com/archives/C02BV1CDS7K): Join If you are still looking to join or create a team
 
 <br />
 Have fun! Build the next great thing and change the world for the better!
