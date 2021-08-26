@@ -17,9 +17,9 @@ IBM PAIRS is the [Geospatial Analytics component](https://www.ibm.com/products/e
 
 - [PAIRS User Interface](https://pairs.res.ibm.com/tutorial/tutorials/gui/index.html)  - Powerful user interface thatcan be used to view data sets, data layers and analytics results
 - [PAIRS API Interface](https://pairs.res.ibm.com/tutorial/tutorials/api/index.html#) - API used to access PAIRS Data, Layers and Analytics Functions progrmatically
-- [PAIRS Datasets and Data Layers Overview](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/PAIRSLayersAndLevelsOverview.pdf)
-  - [PAIRS Data Sets](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/EIS%20DataSet%20Report%20July%202021.pdf) - Large collection of open and proprietary geo-spatial-temporal data sets available in PAIRS
-  - [PAIRS Data Layers](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/EIS%20Detail%20Data%20Layer%20Report%20July%202021.pdf) - large collection of visualization layers that can be used in the PAURS UI and in queueries.
+- [PAIRS Datasets and Data Layers Overview](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/PAIRSLayersAndLevelsOverview.pdf) - List of the more than 750 data sets and data layers supported by PAIRS
+  - [PAIRS Data Sets](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/EIS%20DataSet%20Report%20July%202021.pdf) - Large collection of open and proprietary geo-spatial-temporal data sets available in PAIRS with desciptions and dataset reference number 
+  - [PAIRS Data Layers](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/EIS%20Detail%20Data%20Layer%20Report%20July%202021.pdf) - large collection of visualization layers that can be used in the PAURS UI and in queueries with desciptions and data layer reference number 
 - PAIRS Start here Notebook Examples - Simple subset of Jupyter notebook examples of PAIRS API usage
 - [PAIRS Example Notebook Archive](https://github.ibm.com/physical-analytics/pairs-applications) - Large collection of Jupyter notebooks examples of PAIRS API usage
 
