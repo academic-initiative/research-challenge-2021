@@ -24,6 +24,10 @@ IBM PAIRS is the [Geospatial Analytics component](https://www.ibm.com/products/e
 - PAIRS Start here Notebook Examples - Simple subset of Jupyter notebook examples of PAIRS API usage
 - [PAIRS Example Notebook Archive](https://github.ibm.com/physical-analytics/pairs-applications) - Large collection of Jupyter notebooks examples of PAIRS API usage
 
+for more background, See 
+- https://pairs.res.ibm.com/tutorial
+- https://pairs.res.ibm.com/manual/api-doc/#
+- https://github.com/ibm/ibmpairs
 
 
 ## Weather Company
