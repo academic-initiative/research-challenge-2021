@@ -17,7 +17,18 @@ And the file navigation area where you can upload, rename, copy, delete the file
 - File 3
 
 ## IBM Pairs
+IBM PAIRS is the [Geospatial Analytics component](https://www.ibm.com/products/environmental-intelligence-suite/geospatial-analytics)  of the [IBM Environmental Intelligence Suite](https://www.ibm.com/products/environmental-intelligence-suite) It has a very rich set of geo-spatial-temporal datasets and analytics tools
 
+- PAIRS User Interface - Can be used to view data sets, data layers and analytics results
+- PAIRS API Interface - API used to access PAIRS Data, Layers and Analytics Functions progrmatically
+- PAIRS Data Sets
+- PAIRS Data Layers
+- PAIRS Tutorials - Learn how to use the full power of PAIRS
+- PAIRS Sample Examples - Simple subset of Jupyter notebook examples of PAIRS API usage
+- PAIRS Example Archive - Larger collection of Jupyter notebooks examples of PAIRS API usage
+
+- 
+- 
 NEEDED
 
 LINK TO API
