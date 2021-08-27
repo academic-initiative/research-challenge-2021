@@ -34,11 +34,23 @@ IBM PAIRS is the [Geospatial Analytics component](https://www.ibm.com/products/e
 
 
 ## Weather Company
+The Weather Company(TWC)  is IBM's commercial weather platform. It's the largest  is the [Geospatial Analytics component](https://www.ibm.com/products/environmental-intelligence-suite/geospatial-analytics)  of the [IBM Environmental Intelligence Suite](https://www.ibm.com/products/environmental-intelligence-suite) It has a very rich set of geo-spatial-temporal datasets and analytics tools
 
-NEEDED
+- [TWC  Getting Started Guide for Call for Code](https://developer.ibm.com/blogs/call-for-code-the-weather-company-and-you/) - a comprehensive guide how to use the Weather company in variety of programming models. It's full of API documents, tutorials and examples
+- TWC API Usage
+  - [TWC API Docs](https://docs.google.com/document/d/15Ru_3wdMgpbM4aOCm-4qNAnRfjx2w-Ruw3lnr8Hnodk/edit#)
+  - [TWC API SWAGGER](https://twcservice.mybluemix.net/rest-api/) - Detailed API Docs
 
-LINK TO API
-LINK TO DOCS
+- TWC Tutorials
+  - [Call-for-code-the-weather-company-and-you](https://developer.ibm.com/blogs/call-for-code-the-weather-company-and-you/)
+  - [weather-api-nodejs](https://github.com/Call-for-Code/weather-api-nodejs)
+  - [weather-api-python](https://github.com/Call-for-Code/weather-api-python)
+  - [Node-RED-Severe-Weather-Alert-Map](https://github.com/johnwalicki/Node-RED-Severe-Weather-Alert-Map)
+  - [Node-RED-TWC-Weather-Radar-Map](https://github.com/johnwalicki/Node-RED-TWC-Weather-Radar-Map)
+  - [Node-RED-Weather-Routing-Logistics](https://github.com/johnwalicki/Node-RED-Weather-Routing-Logistics)
+
+- TWC Notebook Examples
+  - 
 
 ## Getting help
 
