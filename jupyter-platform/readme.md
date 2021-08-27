@@ -34,7 +34,7 @@ IBM PAIRS is the [Geospatial Analytics component](https://www.ibm.com/products/e
 
 
 ## Weather Company
-The Weather Company(TWC)  is IBM's commercial weather platform. It's the largest  is the [Geospatial Analytics component](https://www.ibm.com/products/environmental-intelligence-suite/geospatial-analytics)  of the [IBM Environmental Intelligence Suite](https://www.ibm.com/products/environmental-intelligence-suite) It has a very rich set of geo-spatial-temporal datasets and analytics tools
+The Weather Company(TWC)  is IBM's  weather platform. It's the largest commercial weather platfomr  in the world and is used by more people than any other weatehr data source in the world .  It has a huge collection of eeather history, current weather and forcasts. 
 
 - [TWC  Getting Started Guide for Call for Code](https://developer.ibm.com/blogs/call-for-code-the-weather-company-and-you/) - a comprehensive guide how to use the Weather company in variety of programming models. It's full of API documents, tutorials and examples
 - TWC API Usage
@@ -50,7 +50,7 @@ The Weather Company(TWC)  is IBM's commercial weather platform. It's the largest
   - [Node-RED-Weather-Routing-Logistics](https://github.com/johnwalicki/Node-RED-Weather-Routing-Logistics)
 
 - TWC Notebook Examples
-  - 
+  - [Simple TWC data download example](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/download_twc.ipynb)- fetch and viaualize TWC data
 
 ## Getting help
 
