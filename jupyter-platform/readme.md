@@ -1,7 +1,7 @@
 # Welcome to the CFC Research Challenge - Jupyter Environment
 
 
-Out jupyter notebook environement is available at [ibm.biz/cfcnotebook](http://ibm.biz/cfcnotebook).  A set of step-by-step instructions on how to access the environment are available [here](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/how-to-access.md)
+Our jupyter notebook environement is available at [ibm.biz/cfcnotebook](http://ibm.biz/cfcnotebook).  A set of step-by-step instructions on how to access the environment are available [here](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/how-to-access.md)
 
 We'll start with a very quick tour of the Jupyter Interface for those who may not be familiar with JupyterHub.  The Jupyter Environment is made of two primary components.  The main editing window
 
@@ -11,17 +11,27 @@ And the file navigation area where you can upload, rename, copy, delete the file
 
 ![image2](images/welcome2.png)
 
-## Examples
-- File 1
-- File 2
-- File 3
 
 ## IBM Pairs
+IBM PAIRS is the [Geospatial Analytics component](https://www.ibm.com/products/environmental-intelligence-suite/geospatial-analytics)  of the [IBM Environmental Intelligence Suite](https://www.ibm.com/products/environmental-intelligence-suite) It has a very rich set of geo-spatial-temporal datasets and analytics tools
 
-NEEDED
+- [PAIRS Getting Started Guide](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/PAIRSGettingStartedGuide.pdf) - Start here to learn how to use the power of PAIRS for geospatial-temporal analysis and visualization
+- [PAIRS User Interface](https://pairs.res.ibm.com/tutorial/tutorials/gui/index.html)  - Powerful user interface thatcan be used to view data sets, data layers and analytics results
+- PAIRS API Usage
+  - [PAIRS API Tutorial](https://pairs.res.ibm.com/tutorial/tutorials/api/index.html#) - API used to access PAIRS Data, Layers and Analytics Functions progrmatically
+  - [PAIRS API SWAGGER](https://pairs.res.ibm.com/manual/api-doc/#) - Detailed API Docs
+  - [PAIRS Installation guide](https://github.com/ibm/ibmpairs) - needed only if not using our hosted Jupyter notebooks
+- [PAIRS Datasets and Data Layers Overview](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/PAIRSLayersAndLevelsOverview.pdf) - List of the more than 750 data sets and data layers supported by PAIRS
+  - [PAIRS Data Sets](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/EIS%20DataSet%20Report%20July%202021.pdf) - Large collection of open and proprietary geo-spatial-temporal data sets available in PAIRS with desciptions and dataset reference number 
+  - [PAIRS Data Layers](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/EIS%20Detail%20Data%20Layer%20Report%20July%202021.pdf) - large collection of visualization layers that can be used in the PAURS UI and in queueries with desciptions and data layer reference number 
+- PAIRS Start here Notebook Examples - 3 Simple examples of Jupyter notebooks with PAIRS API usage
+  - [Climate_change](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/PAIRS%20Examples/Climate_change.ipynb) - look at climate change over time
+  - [Standardized_Precipitation_Index](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/PAIRS%20Examples/Standardized_Precipitation_Index.ipynb) - look at rainfall patterns over time in the US
+  - [WildfireAnalytics](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/PAIRS%20Examples/WildfireAnalytics.ipynb) - look at Wildfire statistics in the world
+- [PAIRS Example Notebook Archive](https://github.ibm.com/physical-analytics/pairs-applications) - Large collection of Jupyter notebooks examples of PAIRS API usage
 
-LINK TO API
-LINK TO DOCS
+
+
 
 ## Weather Company
 
