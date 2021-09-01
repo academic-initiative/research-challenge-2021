@@ -13,12 +13,13 @@ And the file navigation area where you can upload, rename, copy, delete the file
 
 ## IBM Environmental Intelligence Suite 
 
-The [IBM Environmental Intelligence Suite](https://www.ibm.com/products/environmental-intelligence-suite) is IBM's premier tool for climate analysis it includes a rich set of  components involving geospatial–temporal climate data analysis and historical weather data and weather prediction. For our Call For COde Research Challenge
+The [IBM Environmental Intelligence Suite (EIS) ](https://www.ibm.com/products/environmental-intelligence-suite) is IBM's premier tool for climate analysis it includes a rich set of  components including  geospatial–temporal climate data analysis and historical weather data and weather prediction. For our Call For Code Research Challenge we will be using two components of EIS: the PAIRS for Geospatial-temporal analytics  and The Weather Company(TWC) for historical weather and predictions.
 
 ### IBM Pairs
 IBM PAIRS is the [Geospatial Analytics component](https://www.ibm.com/products/environmental-intelligence-suite/geospatial-analytics)  of the [IBM Environmental Intelligence Suite](https://www.ibm.com/products/environmental-intelligence-suite) It has a very rich set of geo-spatial-temporal datasets and analytics tools
 - [The IBM Environmental Intelligence Suite](https://www.ibm.com/products/environmental-intelligence-suite) - Read more about the IBM Environmental Intelligence Suite, the home of PAIRS and The Weather Company
-- [PAIRS Getting Started Guide](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/Getting%20Started%20-%20Template%20%5BPlease%20copy%20this%20one%5D.pptx) - Start here to learn how to use the power of PAIRS for geospatial-temporal analysis and visualization
+- [EIS Getting Started Guide](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/Getting%20Started%20-%20Template%20%5BPlease%20copy%20this%20one%5D.pptx) - Start here to learn how to use the power of All of the EIS Components
+
 - [PAIRS User Interface](https://pairs.res.ibm.com/tutorial/tutorials/gui/index.html)  - Powerful user interface thatcan be used to view data sets, data layers and analytics results
 - PAIRS API Usage
   - [PAIRS API Tutorial](https://pairs.res.ibm.com/tutorial/tutorials/api/index.html#) - API used to access PAIRS Data, Layers and Analytics Functions progrmatically
