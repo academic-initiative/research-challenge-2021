@@ -13,12 +13,12 @@ And the file navigation area where you can upload, rename, copy, delete the file
 
 ## IBM Environmental Intelligence Suite 
 
-The [IBM Environmental Intelligence Suite (EIS) ](https://www.ibm.com/products/environmental-intelligence-suite) is IBM's premier tool for climate analysis it includes a rich set of  components including  geospatial–temporal climate data analysis and historical weather data and weather prediction. For our Call For Code Research Challenge we will be using two components of EIS: the PAIRS for Geospatial-temporal analytics  and The Weather Company(TWC) for historical weather and predictions.
+The [IBM Environmental Intelligence Suite (EIS) ](https://www.ibm.com/products/environmental-intelligence-suite) is IBM's premier tool for climate analysis it includes a rich set of  components including  geospatial–temporal climate data analysis and historical weather data and weather prediction. For our Call For Code Research Challenge we will be using two components of EIS: the [PAIRS](https://www.ibm.com/products/environmental-intelligence-suite/geospatial-analytics)  for Geospatial-temporal analytics  and [The Weather Company(TWC)](https://www.ibm.com/products/environmental-intelligence-suite/data-packages) for historical weather and predictions. Here's a helpful getting started guide **Note:** you will be receiving a personalized version of this document with your EIS credentials when you register. Please keep that as you will need those credentials for your projects. 
+
+- [EIS Getting Started Guide](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/EISGettingStartedGuide.pdf) - Start here to learn how to use the power of All of the EIS Components. 
 
 ### IBM Pairs
-IBM PAIRS is the [Geospatial Analytics component](https://www.ibm.com/products/environmental-intelligence-suite/geospatial-analytics)  of the [IBM Environmental Intelligence Suite](https://www.ibm.com/products/environmental-intelligence-suite) It has a very rich set of geo-spatial-temporal datasets and analytics tools
-- [The IBM Environmental Intelligence Suite](https://www.ibm.com/products/environmental-intelligence-suite) - Read more about the IBM Environmental Intelligence Suite, the home of PAIRS and The Weather Company
-- [EIS Getting Started Guide](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/Getting%20Started%20-%20Template%20%5BPlease%20copy%20this%20one%5D.pptx) - Start here to learn how to use the power of All of the EIS Components
+IBM PAIRS is the [Geospatial Analytics component](https://www.ibm.com/products/environmental-intelligence-suite/geospatial-analytics)  of the [IBM Environmental Intelligence Suite](https://www.ibm.com/products/environmental-intelligence-suite) It has a very rich set of visualization interfaces, API's,  geo-spatial-temporal datasets and analytics tools.
 
 - [PAIRS User Interface](https://pairs.res.ibm.com/tutorial/tutorials/gui/index.html)  - Powerful user interface thatcan be used to view data sets, data layers and analytics results
 - PAIRS API Usage
@@ -37,9 +37,9 @@ IBM PAIRS is the [Geospatial Analytics component](https://www.ibm.com/products/e
 
 
 ### Weather Company
-The Weather Company(TWC) is IBM's  premier weather platform ann the largest commercial weather platform in the world a. It  used by more people than any other weatehr data source in the world.  The  has a huge collection of weather history, current weather and forcasts.  
+The Weather Company(TWC) is IBM's  premier weather platform and  the largest commercial weather platform in the world a. It  used by more people than any other weather data source in the world.  The  has a huge collection of weather history, current weather and forcasts.  
 
-- [The IBM Environmental Intelligence Suite](https://www.ibm.com/products/environmental-intelligence-suite) - Read more about the IBM Environmental Intelligence Suite, the home of PAIRS and The Weather Company
+- [The Weather Company(TWC)](https://www.ibm.com/products/environmental-intelligence-suite/data-packages)
 
 - [TWC  Getting Started Guide for Call for Code](https://developer.ibm.com/blogs/call-for-code-the-weather-company-and-you/) - a comprehensive guide how to use the Weather company in variety of programming models. It's full of API documents, tutorials and examples
 - TWC API Usage
