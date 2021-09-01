@@ -13,7 +13,9 @@ And the file navigation area where you can upload, rename, copy, delete the file
 
 ## IBM Environmental Intelligence Suite 
 
-The [IBM Environmental Intelligence Suite (EIS) ](https://www.ibm.com/products/environmental-intelligence-suite) is IBM's premier tool for climate analysis it includes a rich set of  components including  geospatial–temporal climate data analysis and historical weather data and weather prediction. For our Call For Code Research Challenge we will be using two components of EIS: the [PAIRS](https://www.ibm.com/products/environmental-intelligence-suite/geospatial-analytics)  for Geospatial-temporal analytics  and [The Weather Company(TWC)](https://www.ibm.com/products/environmental-intelligence-suite/data-packages) for historical weather and predictions. Here's a helpful getting started guide **Note:** you will be receiving a personalized version of this document with your EIS credentials when you register. Please keep that as you will need those credentials for your projects. 
+The [IBM Environmental Intelligence Suite (EIS) ](https://www.ibm.com/products/environmental-intelligence-suite) is IBM's premier tool for climate analysis it includes a rich set of  components including  geospatial–temporal climate data analysis and historical weather data and weather prediction. For our Call For Code Research Challenge we will be using two components of EIS: the [PAIRS](https://www.ibm.com/products/environmental-intelligence-suite/geospatial-analytics)  for Geospatial-temporal analytics  and [The Weather Company(TWC)](https://www.ibm.com/products/environmental-intelligence-suite/data-packages) for historical weather and predictions. Here's a helpful getting started guide 
+
+**Note:you will be receiving a personalized version of this document with your EIS credentials when you register. Please keep that as you will need those credentials for your projects.**  
 
 - [EIS Getting Started Guide](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/EISGettingStartedGuide.pdf) - Start here to learn how to use the power of All of the EIS Components. 
 
@@ -39,7 +41,7 @@ IBM PAIRS is the [Geospatial Analytics component](https://www.ibm.com/products/e
 ### Weather Company
 The Weather Company(TWC) is IBM's  premier weather platform and  the largest commercial weather platform in the world a. It  used by more people than any other weather data source in the world.  The  has a huge collection of weather history, current weather and forcasts.  
 
-- [The Weather Company(TWC)](https://www.ibm.com/products/environmental-intelligence-suite/data-packages)
+- [The Weather Company(TWC)](https://www.ibm.com/products/environmental-intelligence-suite/data-packages) - Here's a quick overview of The Weather Company from a programmers perspective. 
 
 - [TWC  Getting Started Guide for Call for Code](https://developer.ibm.com/blogs/call-for-code-the-weather-company-and-you/) - a comprehensive guide how to use the Weather company in variety of programming models. It's full of API documents, tutorials and examples
 - TWC API Usage
@@ -56,6 +58,12 @@ The Weather Company(TWC) is IBM's  premier weather platform and  the largest com
 
 - TWC Notebook Examples
   - [Simple TWC data download example](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/download_twc.ipynb)- fetch and viaualize TWC data
+
+## Additonal Open Source Data Sources
+As part of the Call for Code Research Challenge you are required to use at least one of the IBM  climate components described above . In addition you're able to use any number of open source climate and weather data sets available on the Internet. Here are a few examples
+- [Copernicus  CLimate repository](https://cds.climate.copernicus.eu/#!/home_ - Great worl climate databases proviceded by the European Union
+- [US Geologic Survey open WOrld explorer](https://earthexplorer.usgs.gov/.)
+
 
 ## Getting help
 
