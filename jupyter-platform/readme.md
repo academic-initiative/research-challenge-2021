@@ -59,10 +59,17 @@ The Weather Company(TWC) is IBM's  premier weather platform and  the largest com
 - TWC Notebook Examples
   - [Simple TWC data download example](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/download_twc.ipynb)- fetch and viaualize TWC data
 
-## Additonal Open Source Data Sources
+## TAHMO Weather stations
+Over the past several years IBM  has  supported [Trans-African Hydro-Meteorological Observatory (TAHMO)](http://tahmo.org) in their creation of a network of high accuracy weather stations in sub-Saharan Africa. IBM  has sponsored the creation and maintenance of over 300 stations who's Data flows into The Weather Company databases. Thanks to  the TAHMO organization,  we will have unlimited access to one year of hostorical data from all of the TAHMO weather stations in Kenya for the  duration of our Call for Code Research Challenge.
+ 
+- [Current Weather Data from IBM Sponsored TAHMO Stations] - here's a map where you can see the IBM Sponsored TAHMO weather stations as they appear in the IBM weather company data interface
+- **1 Year of Historical Data for all TAHMO Stations in Kenya (coming soon)** - exampls  to get historical data for all of the  weather stations in Kenya for the past year directly from TAHMO
+
+
+## Additonal Open Source Climate Data Repository
 As part of the Call for Code Research Challenge you are required to use at least one of the IBM  climate components described above . In addition you're able to use any number of open source climate and weather data sets available on the Internet. Here are a few examples
-- [Copernicus  CLimate repository](https://cds.climate.copernicus.eu/#!/home_ - Great worl climate databases proviceded by the European Union
-- [US Geologic Survey open WOrld explorer](https://earthexplorer.usgs.gov/.)
+- [Copernicus  CLimate repository](https://cds.climate.copernicus.eu/#!/home_) - Great world climate databases proviceded by the European Union
+- [US Geologic Survey open World explorer](https://earthexplorer.usgs.gov/.)
 
 
 ## Getting help
