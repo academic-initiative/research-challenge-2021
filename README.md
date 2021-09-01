@@ -11,14 +11,14 @@ Now we are coming together with some of the top research universities: [The Univ
 - [Submissions](#submissions)
 - [Judging](#judging)
 - [Assets](#assets)
-- [Jupyter Environment](#jupyter-environment)
+- [Technical Details](#technical-details)
 - [Getting help](#getting-help)
 
 
 ## Focus areas
 Climate Change is without a doubt one of the most pressing issues of our time. Leverage data from the Weather Operations Center Geospatial Analytics engine (PAIRS) or bring your own data to tackle the impacts of climate change on our planet and communities. 
 
-Build a solution or prototypes that help address climate change. Here are a few examples:
+Build a solution or prototype that help address climate change. Here are a few examples:
 
 - sustainable water use ([starter kit](https://github.com/Call-for-Code/Solution-Starter-Kit-Water-2021/))
 - resilient agriculture ([starter kit](https://github.com/Call-for-Code/Solution-Starter-Kit-Production-2021/))
@@ -75,14 +75,13 @@ The solutions should be such that they can be extended and expanded upon. You wi
 ## Assets
 
 - [IBM Pairs](https://github.com/IBM/ibmpairs) (API)(DOCS)
-- [The Weather Company]() (DOCS)
 - [IBM Cloud](https://cloud.ibm.com) ([Docs](https://cloud.ibm.com/docs)) ([Catalog](https://cloud.ibm.com/catalog)) ([How to access](/how-to/how-to-access-ibm-cloud/how-to-access-ibm-cloud.md))
 - [IBM Academic Initiative](https://ibm.com/academic) ([FAQ](https://www.ibm.com/academic/faqs/faqs)) ([How to access](/how-to/how-to-access-the-ibm-academic-initiative/how-to-access-the-ibm-academic-initiative.md))
 
-## Jupyter Environment
+## Technical Details
 As part of this challenge we are providing participants with a cloud-based environment with which they can run Jupyter notebooks and explore some of our IBM Pairs and Weather Company examples.  Learn more using the links below.
-- [Jupyter Environment](https://ibm.biz/cfcnotebook)
-- [Jupyter welcome page](/jupyter-platform/readme.md)
+- [Jupyter environment](https://ibm.biz/cfcnotebook)
+- [Technical details](/jupyter-platform/readme.md)
 - [How to access](/jupyter-platform/how-to-access.md)
 
 
