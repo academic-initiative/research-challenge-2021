@@ -11,8 +11,11 @@ And the file navigation area where you can upload, rename, copy, delete the file
 
 ![image2](images/welcome2.png)
 
+## IBM Environmental Intelligence Suite 
 
-## IBM Pairs
+The [IBM Environmental Intelligence Suite](https://www.ibm.com/products/environmental-intelligence-suite) is IBM's premier tool for climate analysis it includes a rich set of  components involving geospatial–temporal climate data analysis and historical weather data and weather prediction. For our Call For COde Research Challenge
+
+### IBM Pairs
 IBM PAIRS is the [Geospatial Analytics component](https://www.ibm.com/products/environmental-intelligence-suite/geospatial-analytics)  of the [IBM Environmental Intelligence Suite](https://www.ibm.com/products/environmental-intelligence-suite) It has a very rich set of geo-spatial-temporal datasets and analytics tools
 - [The IBM Environmental Intelligence Suite](https://www.ibm.com/products/environmental-intelligence-suite) - Read more about the IBM Environmental Intelligence Suite, the home of PAIRS and The Weather Company
 - [PAIRS Getting Started Guide](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/Getting%20Started%20-%20Template%20%5BPlease%20copy%20this%20one%5D.pptx) - Start here to learn how to use the power of PAIRS for geospatial-temporal analysis and visualization
@@ -32,7 +35,7 @@ IBM PAIRS is the [Geospatial Analytics component](https://www.ibm.com/products/e
 
 
 
-## Weather Company
+### Weather Company
 The Weather Company(TWC) is IBM's  premier weather platform ann the largest commercial weather platform in the world a. It  used by more people than any other weatehr data source in the world.  The  has a huge collection of weather history, current weather and forcasts.  
 
 - [The IBM Environmental Intelligence Suite](https://www.ibm.com/products/environmental-intelligence-suite) - Read more about the IBM Environmental Intelligence Suite, the home of PAIRS and The Weather Company
