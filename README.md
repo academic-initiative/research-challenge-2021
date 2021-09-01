@@ -60,7 +60,7 @@ Participating universities
 
 ## Submissions
 
-Submissions must include at least one (1) IBM technology, data set or API, along with any other open source technology, to address the problem of climate change. Submissions may require additional research, but must have clear use case.
+Submissions must include at least one (1) IBM technology, data set or API, along with any other open source technology, to address the problem of climate change. Submissions may require additional research, but must have clear use case. The submission may be in the form of some working code including a jupyter notebook,  a stand alone program, or a mobile or web app. 
 
 At the end of the challenge, we will expect from each team a brief 3 minute video detailing what you’ve created, a description for how you put it all together and who your project is intended to help, and a roadmap to show the judges where your project is going.
 
@@ -74,14 +74,13 @@ The solutions should be such that they can be extended and expanded upon. You wi
 
 ## Assets
 
-- [IBM Pairs](https://github.com/IBM/ibmpairs) (API)(DOCS)
 - [IBM Cloud](https://cloud.ibm.com) ([Docs](https://cloud.ibm.com/docs)) ([Catalog](https://cloud.ibm.com/catalog)) ([How to access](/how-to/how-to-access-ibm-cloud/how-to-access-ibm-cloud.md))
 - [IBM Academic Initiative](https://ibm.com/academic) ([FAQ](https://www.ibm.com/academic/faqs/faqs)) ([How to access](/how-to/how-to-access-the-ibm-academic-initiative/how-to-access-the-ibm-academic-initiative.md))
 
 ## Technical Details
 As part of this challenge we are providing participants with a cloud-based environment with which they can run Jupyter notebooks and explore some of our IBM Pairs and Weather Company examples.  Learn more using the links below.
 - [Jupyter environment](https://ibm.biz/cfcnotebook)
-- [Technical details](/jupyter-platform/readme.md)
+- [Technical details of supplied IBM Assets](/jupyter-platform/readme.md)
 - [How to access](/jupyter-platform/how-to-access.md)
 
 
