@@ -18,6 +18,6 @@ _Note: this may make a few minutes and may include an empty white screen.  No ne
 ![Step 4b](images/step4b.png)
 ![Step 4c](images/step4c.png)
 
-### Step 5 - Take advantage of a few examples and create the next great thing to solve problems around climage change!
+### Step 5 - Take advantage of a [few examples](/jupyter-platform/readme.md) and create the next great thing to solve problems around climage change!
 
 For any questions, please post a message on the #helpdesk channel in the Slack workspace.

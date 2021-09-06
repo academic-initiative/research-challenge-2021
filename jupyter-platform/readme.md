@@ -2,7 +2,7 @@
 
 ## IBM Environmental Intelligence Suite 
 
-The [IBM Environmental Intelligence Suite (EIS) ](https://www.ibm.com/products/environmental-intelligence-suite) is IBM's premier tool for climate analysis it includes a rich set of  components including  geospatial–temporal climate data analysis and historical weather data and weather prediction. For our Call For Code Research Challenge we will be using two components of EIS: the [PAIRS](https://www.ibm.com/products/environmental-intelligence-suite/geospatial-analytics)  for Geospatial-temporal analytics  and [The Weather Company(TWC)](https://www.ibm.com/products/environmental-intelligence-suite/data-packages) for historical weather and predictions. Here's a helpful getting started guide 
+The [IBM Environmental Intelligence Suite (EIS) ](https://www.ibm.com/products/environmental-intelligence-suite) is IBM's premier tool for climate analysis it includes a rich set of  components including  geospatial–temporal climate data analysis and historical weather data and weather prediction. For our Call For Code Research Challenge we will be using two components of EIS: the [PAIRS](https://www.ibm.com/products/environmental-intelligence-suite/geospatial-analytics)  for Geospatial-temporal analytics  and [The Weather Company (TWC)](https://www.ibm.com/products/environmental-intelligence-suite/data-packages) for historical weather and predictions. Here's a helpful getting started guide 
 
 **Note:you will be receiving a personalized version of this document with your EIS credentials when you register. Please keep that as you will need those credentials for your projects.**  
 
@@ -16,21 +16,15 @@ IBM PAIRS is the [Geospatial Analytics component](https://www.ibm.com/products/e
   - [PAIRS API Tutorial](https://pairs.res.ibm.com/tutorial/tutorials/api/index.html#) - API used to access PAIRS Data, Layers and Analytics Functions progrmatically
   - [PAIRS API SWAGGER](https://pairs.res.ibm.com/manual/api-doc/#) - Detailed API Docs
   - [PAIRS Installation guide](https://github.com/ibm/ibmpairs) - needed only if not using our hosted Jupyter notebooks
-- [PAIRS Datasets and Data Layers Overview](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/PAIRSLayersAndLevelsOverview.pdf) - List of the more than 750 data sets and data layers supported by PAIRS
-  - [PAIRS Data Sets](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/EIS%20DataSet%20Report%20July%202021.pdf) - Large collection of open and proprietary geo-spatial-temporal data sets available in PAIRS with desciptions and dataset reference number 
-  - [PAIRS Data Layers](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/EIS%20Detail%20Data%20Layer%20Report%20July%202021.pdf) - large collection of visualization layers that can be used in the PAURS UI and in queueries with desciptions and data layer reference number 
 - PAIRS Start here Notebook Examples - 3 Simple examples of Jupyter notebooks with PAIRS API usage
   - [Climate_change](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/PAIRS%20Examples/Climate_change.ipynb) - look at climate change over time
   - [Standardized_Precipitation_Index](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/PAIRS%20Examples/Standardized_Precipitation_Index.ipynb) - look at rainfall patterns over time in the US
   - [WildfireAnalytics (still being updated)](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/PAIRS%20Examples/WildfireAnalytics.ipynb) - look at Wildfire statistics in the world
-- [PAIRS Example Notebook Archive](https://github.ibm.com/physical-analytics/pairs-applications) - Large collection of Jupyter notebooks examples of PAIRS API usage
-
-
 
 ### Weather Company
-The Weather Company(TWC) is IBM's  premier weather platform and  the largest commercial weather platform in the world a. It  used by more people than any other weather data source in the world.  The  has a huge collection of weather history, current weather and forcasts.  
+The Weather Company (TWC) is IBM's  premier weather platform and  the largest commercial weather platform in the world a. It  used by more people than any other weather data source in the world.  The  has a huge collection of weather history, current weather and forcasts.  
 
-- [The Weather Company(TWC)](https://www.ibm.com/products/environmental-intelligence-suite/data-packages) - Here's a quick overview of The Weather Company from a programmers perspective. 
+- [The Weather Company (TWC)](https://www.ibm.com/products/environmental-intelligence-suite/data-packages) - Here's a quick overview of The Weather Company from a programmers perspective. 
 
 - [TWC  Getting Started Guide for Call for Code](https://developer.ibm.com/blogs/call-for-code-the-weather-company-and-you/) - a comprehensive guide how to use the Weather company in variety of programming models. It's full of API documents, tutorials and examples
 - TWC API Usage
@@ -57,7 +51,7 @@ Over the past several years IBM  has  supported [Trans-African Hydro-Meteorologi
 
 ## Additonal Open Source Climate Data Repository
 As part of the Call for Code Research Challenge you are required to use at least one of the IBM  climate components described above . In addition you're able to use any number of open source climate and weather data sets available on the Internet. Here are a few examples
-- [Copernicus  CLimate repository](https://cds.climate.copernicus.eu/#!/home_) - Great world climate databases proviceded by the European Union
+- [Copernicus  Climate repository](https://cds.climate.copernicus.eu/#!/home_) - Great world climate databases proviceded by the European Union
 - [US Geologic Survey open World explorer](https://earthexplorer.usgs.gov/.)
 
 ## Jupyter Environment

@@ -16,14 +16,13 @@ Now we are coming together with some of the top research universities: [The Univ
 
 
 ## Focus areas
-Climate Change is without a doubt one of the most pressing issues of our time. Leverage data from the Weather Operations Center Geospatial Analytics engine (PAIRS) or bring your own data to tackle the impacts of climate change on our planet and communities. 
+Climate Change is without a doubt one of the most pressing issues of our time. Leverage data from the [IBM Environmental Intelligence Suite Geospatial Analytics engine (PAIRS)](https://www.ibm.com/uk-en/products/environmental-intelligence-suite) or bring your own data to tackle the impacts of climate change on our planet and communities. 
 
 Build a solution or prototype that help address climate change. Here are a few examples:
 
 - sustainable water use ([starter kit](https://github.com/Call-for-Code/Solution-Starter-Kit-Water-2021/))
 - resilient agriculture ([starter kit](https://github.com/Call-for-Code/Solution-Starter-Kit-Production-2021/))
 - responsible production ([starter kit](https://github.com/Call-for-Code/Solution-Starter-Kit-Production-2021/))
-- Climate risk and impact (quantifying the risk to socioeconomic and natural systems of current and future climate change).
 
 Make sure you have a clear user in mind! Your solution should provide users with information, recommendations and insights that are relevant to them and how climate change is impacting their community.
 
@@ -79,10 +78,8 @@ The solutions should be such that they can be extended and expanded upon. You wi
 
 ## Technical Details
 As part of this challenge we are providing participants with a cloud-based environment with which they can run Jupyter notebooks and explore some of our IBM Pairs and Weather Company examples.  Learn more using the links below.
-- [Jupyter environment](https://ibm.biz/cfcnotebook)
-- [Technical details of supplied IBM Assets](/jupyter-platform/readme.md)
-- [How to access](/jupyter-platform/how-to-access.md)
-
+- [Jupyter environment](https://ibm.biz/cfcnotebook) ([How to access](/jupyter-platform/how-to-access.md))
+- [Technical details of supplied IBM assets](/jupyter-platform/readme.md)
 
 ## Getting help
 
