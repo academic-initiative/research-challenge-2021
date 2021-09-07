@@ -10,7 +10,7 @@ The [IBM Environmental Intelligence Suite (EIS) ](https://www.ibm.com/products/e
 ### IBM Pairs
 IBM PAIRS is the [Geospatial Analytics component](https://www.ibm.com/products/environmental-intelligence-suite/geospatial-analytics)  of the [IBM Environmental Intelligence Suite](https://www.ibm.com/products/environmental-intelligence-suite) It has a very rich set of visualization interfaces, API's,  geo-spatial-temporal datasets and analytics tools.
 
-**Note: your PAIRS API credentials will be emailed to you separately from the email noreply@wsitrader.com !**
+**Note: your PAIRS API credentials will be emailed to you separately from the email noreply@wsitrader.com **
 
 - [PAIRS User Interface](https://pairs.res.ibm.com/tutorial/tutorials/gui/index.html) - Powerful user interface that can be used to view data sets, data layers and analytics results
 - PAIRS API Usage
