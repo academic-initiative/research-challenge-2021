@@ -4,13 +4,13 @@
 
 The [IBM Environmental Intelligence Suite (EIS) ](https://www.ibm.com/products/environmental-intelligence-suite) is IBM's premier tool for climate analysis it includes a rich set of  components including  geospatial–temporal climate data analysis and historical weather data and weather prediction. For our Call For Code Research Challenge we will be using two components of EIS: the [PAIRS](https://www.ibm.com/products/environmental-intelligence-suite/geospatial-analytics)  for Geospatial-temporal analytics  and [The Weather Company (TWC)](https://www.ibm.com/products/environmental-intelligence-suite/data-packages) for historical weather and predictions. Here's a helpful getting started guide 
 
-**Note:you will be receiving a personalized version of this document with your EIS and Weather Company credentials when you register. Please keep that as you will need those credentials for your projects.**  
-
-- [EIS Getting Started Guide](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/EISGettingStartedGuide.pdf) - Start here to learn how to use the power of all of the EIS Components. 
+- [EIS Getting Started Guide](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/EISGettingStartedGuide.pdf) - Start here to learn how to use the power of all of the EIS Components. **Note: start with this document**
 - [The Weather Operations Center](http://weatheroperationscenter.ibm.com) - the Dashboard of the  [IBM Environmental Intelligence Suite (EIS)](https://www.ibm.com/products/environmental-intelligence-suite) 
 
 ### IBM Pairs
 IBM PAIRS is the [Geospatial Analytics component](https://www.ibm.com/products/environmental-intelligence-suite/geospatial-analytics)  of the [IBM Environmental Intelligence Suite](https://www.ibm.com/products/environmental-intelligence-suite) It has a very rich set of visualization interfaces, API's,  geo-spatial-temporal datasets and analytics tools.
+
+**Note: your PAIRS API credentials will be emailed to you separately from the email noreply@wsitrader.com !**
 
 - [PAIRS User Interface](https://pairs.res.ibm.com/tutorial/tutorials/gui/index.html) - Powerful user interface that can be used to view data sets, data layers and analytics results
 - PAIRS API Usage
@@ -26,7 +26,7 @@ IBM PAIRS is the [Geospatial Analytics component](https://www.ibm.com/products/e
 ### Weather Company
 The Weather Company (TWC) is IBM's  premier weather platform and  the largest commercial weather platform in the world. It  used by more people than any other weather data source in the world.  The  has a huge collection of weather history, current weather and forcasts.  
 
-**Note:you will be receiving a personalized version of this document with your EIS and Weather Company credentials when you register. Please keep that as you will need those credentials for your projects.**  
+**Note:your Weather Company API credentials can be found in [EIS Getting Started Guide](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/EISGettingStartedGuide.pdf)** Please use the key thats assigned to your team !
 
 - [The Weather Company (TWC)](https://www.ibm.com/products/environmental-intelligence-suite/data-packages) - Here's a quick overview of The Weather Company from a programmers perspective. 
 
