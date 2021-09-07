@@ -16,7 +16,7 @@ IBM PAIRS is the [Geospatial Analytics component](https://www.ibm.com/products/e
   - [PAIRS API Tutorial](https://pairs.res.ibm.com/tutorial/tutorials/api/index.html#) - API used to access PAIRS Data, Layers and Analytics Functions progrmatically
   - [PAIRS API SWAGGER](https://pairs.res.ibm.com/manual/api-doc/#) - Detailed API Docs
   - [PAIRS Installation guide](https://github.com/ibm/ibmpairs) - needed only if not using our hosted Jupyter notebooks
-  - [PAIRS Dataset List](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/EIS%20DataSet%20Report%20July%202021.pdf)  - description of the many datasets and data numbers for PAIRs           
+  - [PAIRS Dataset List](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/EIS%20DataSet%20Report%20July%202021.pdf)  - description of the many datasets and data set numbers for PAIRs           
 - PAIRS Start here Notebook Examples - 3 Simple examples of Jupyter notebooks with PAIRS API usage
   - [Climate_change](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/PAIRS%20Examples/Climate_change.ipynb) - look at climate change over time
   - [Standardized_Precipitation_Index](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/PAIRS%20Examples/Standardized_Precipitation_Index.ipynb) - look at rainfall patterns over time in the US
