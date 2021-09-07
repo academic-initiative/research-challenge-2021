@@ -45,8 +45,8 @@ The Weather Company (TWC) is IBM's  premier weather platform and  the largest co
 ## TAHMO Weather stations
 Over the past several years IBM  has  supported [Trans-African Hydro-Meteorological Observatory (TAHMO)](http://tahmo.org) in their creation of a network of high accuracy weather stations in sub-Saharan Africa. IBM  has sponsored the creation and maintenance of over 300 stations who's Data flows into The Weather Company databases. Thanks to  the TAHMO organization,  we will have unlimited access to one year of hostorical data from all of the TAHMO weather stations in Kenya for the  duration of our Call for Code Research Challenge.
  
-- [Current Weather Data from IBM Sponsored TAHMO Stations] - here's a map where you can see the IBM Sponsored TAHMO weather stations as they appear in the IBM weather company data interface
-- **1 Year of Historical Data for all TAHMO Stations in Kenya (coming soon)** - exampls  to get historical data for all of the  weather stations in Kenya for the past year directly from TAHMO
+- [Current Weather Data from IBM Sponsored TAHMO Stations](https://www.google.com/maps/d/u/0/edit?mid=121QEOy-mkS2S9VHn0rjk-X2xUuMc2O-9&ll=6.263995812154352%2C5.355502397297634&z=3) - here's a map where you can see the IBM Sponsored TAHMO weather stations as they appear in the IBM weather company data interface
+- [Example code to accces TAHMO data](https://github.com/TAHMO/API-V2-Python-examples) - examples  to get historical data for all of the  weather stations in Kenya for the past year directly from TAHMO. Includes python and notebook examples. 
 
 
 ## Additonal Open Source Climate Data Repository
