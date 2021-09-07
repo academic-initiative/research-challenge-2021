@@ -7,6 +7,7 @@ The [IBM Environmental Intelligence Suite (EIS) ](https://www.ibm.com/products/e
 **Note:you will be receiving a personalized version of this document with your EIS credentials when you register. Please keep that as you will need those credentials for your projects.**  
 
 - [EIS Getting Started Guide](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/EISGettingStartedGuide.pdf) - Start here to learn how to use the power of All of the EIS Components. 
+- [The Weather Operations Center](http://weatheroperationscenter.ibm.com) - the Dashboard of the  [IBM Environmental Intelligence Suite (EIS) ](https://www.ibm.com/products/environmental-intelligence-suite) 
 
 ### IBM Pairs
 IBM PAIRS is the [Geospatial Analytics component](https://www.ibm.com/products/environmental-intelligence-suite/geospatial-analytics)  of the [IBM Environmental Intelligence Suite](https://www.ibm.com/products/environmental-intelligence-suite) It has a very rich set of visualization interfaces, API's,  geo-spatial-temporal datasets and analytics tools.
