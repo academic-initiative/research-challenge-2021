@@ -12,7 +12,8 @@ IBM PAIRS is the [Geospatial Analytics component](https://www.ibm.com/products/e
 
 **Note: your PAIRS API credentials will be emailed to you separately from the email noreply@wsitrader.com **
 
-- [PAIRS User Interface](https://pairs.res.ibm.com/tutorial/tutorials/gui/index.html) - Powerful user interface that can be used to view data sets, data layers and analytics results
+- [PAIRS Interactive Tutorial](https://pairs.res.ibm.com/tutorial/tutorials/gui/index.html) - Powerful user interface that can be used to view data sets, data layers and analytics results
+-  [PAIRS User Interface](https://ibmpairs.mybluemix.net/) - logon here to use the interactive PAIRS user experience
 - PAIRS API Usage
   - [PAIRS API Tutorial](https://pairs.res.ibm.com/tutorial/tutorials/api/index.html#) - API used to access PAIRS Data, Layers and Analytics Functions progrmatically
   - [PAIRS API SWAGGER](https://pairs.res.ibm.com/manual/api-doc/#) - Detailed API Docs
