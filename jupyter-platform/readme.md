@@ -4,7 +4,7 @@
 
 The [IBM Environmental Intelligence Suite (EIS) ](https://www.ibm.com/products/environmental-intelligence-suite) is IBM's premier tool for climate analysis it includes a rich set of  components including  geospatial–temporal climate data analysis and historical weather data and weather prediction. For our Call For Code Research Challenge we will be using two components of EIS: the [PAIRS](https://www.ibm.com/products/environmental-intelligence-suite/geospatial-analytics)  for Geospatial-temporal analytics  and [The Weather Company (TWC)](https://www.ibm.com/products/environmental-intelligence-suite/data-packages) for historical weather and predictions. Here's a helpful getting started guide 
 
-- [EIS Getting Started Guide](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/EISGettingStartedGuide.pdf) - Start here to learn how to use the power of all of the EIS Components. **Note: start with this document**
+- [EIS Getting Started Guide](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/Getting%20Started%20-%20Call%20For%20Code%20Research%20Challenge%202021.pdf) - Start here to learn how to use the power of all of the EIS Components. **Note: start with this document**
 - [The Weather Operations Center](http://weatheroperationscenter.ibm.com) - the Dashboard of the  [IBM Environmental Intelligence Suite (EIS)](https://www.ibm.com/products/environmental-intelligence-suite) 
 
 ### IBM Pairs
