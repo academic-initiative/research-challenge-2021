@@ -2,9 +2,12 @@
 Here's a list of the climate-related Assets we are making available for this challenge as well as the host to Jupiter notebook infrastructure. The only requirement for the challenge is that you use at least one of these assets in your solution.
 
 ## Contents
-- [IBM Environmental Intelligence Suite](#IBM-Environmental-Intelligence-Suite)
-  - [PAIRS Geospatial Analytics](#ibm-Pairs)
-  - [The Weather Company](#weather-company)
+- [Hosted Jupyter Npotbooks](#Jupyter-Environment) - We are providing a hosted Jupyter notebook platform for your use. 
+- [IBM Environmental Intelligence Suite](#IBM-Environmental-Intelligence-Suite) - IBM's integrated  weather and climate suite
+  - [PAIRS](#ibm-Pairs) - IBM's Geospatial Analytics package
+  - [The Weather Company](#weather-company) - the worlds most use weather resource
+ - [TAHMO Weather Stations](#TAHMO-Weather-stations) - IBM Sponsored weather station that are part of the Trans-African Hydro-Meteorological Observatory (TAHMO)
+ - [Open source climate repositories](#Additonal-Open-Source-Climate-Data-Repository) - A few open source climate data repositories.. there are many more out there 
 
 ## IBM Environmental Intelligence Suite 
 
