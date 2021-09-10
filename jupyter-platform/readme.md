@@ -3,8 +3,8 @@ Here's a list of the climate-related Assets we are making available for this cha
 
 ## Contents
 - [IBM Environmental Intelligence Suite](#IBM-Environmental-Intelligence-Suite)
--- [PAIRS Geospatial Analytics](#ibm-Pairs)
--- [The Weather Company](#weather-company)
+  - [PAIRS Geospatial Analytics](#ibm-Pairs)
+  - [The Weather Company](#weather-company)
 
 ## IBM Environmental Intelligence Suite 
 
