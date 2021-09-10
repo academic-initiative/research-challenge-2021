@@ -84,7 +84,7 @@ And the file navigation area where you can upload, rename, copy, delete the file
 
 ## Getting help
 
-In the Slack workspace, you’ll be able to find other participants, join or build teams, brainstorm and collaborate on ideas, and communicate with the challenge Champions and Subject Matter Experts for mentoring and technical guidance. [Join the Slack](https://join.slack.com/t/callforcodere-ju79661/shared_invite/zt-uc2w9nn4-zEf9urnpE1c7~EIGJblx_Q)
+In the Slack workspace, you’ll be able to find other participants, join or build teams, brainstorm and collaborate on ideas, and communicate with the challenge Champions and Subject Matter Experts for mentoring and technical guidance. [Join the Slack](https://join.slack.com/t/callforcode-research/shared_invite/zt-vkxbdj50-qAd4Y4dxxjT~uNBVZAPL0g)
 
 Please join the following channels in the workspace:
 
