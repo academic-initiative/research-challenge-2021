@@ -1,4 +1,16 @@
 # Welcome to the CFC Research Challenge - Technical Details
+Here's a list of the climate-related Assets we are making available for this challenge as well as the host to Jupiter notebook infrastructure. The only requirement for the challenge is that you use at least one of these assets in your solution.
+
+## Contents
+- [IBM Environmental Intelligence Suite ](#IBM-Environmental-Intelligence-Suite)
+- [Eligibility](#eligibility)
+- [Timeline](#timeline)
+- [Submissions](#submissions)
+- [Judging](#judging)
+- [Assets](#assets)
+- [Technical Details](#technical-details)
+- [Getting help](#getting-help)
+
 
 ## IBM Environmental Intelligence Suite 
 
