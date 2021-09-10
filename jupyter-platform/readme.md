@@ -19,11 +19,13 @@ IBM PAIRS is the [Geospatial Analytics component](https://www.ibm.com/products/e
   - [PAIRS API SWAGGER](https://pairs.res.ibm.com/manual/api-doc/#) - Detailed API Docs
   - [PAIRS Installation guide](https://github.com/ibm/ibmpairs) - needed only if not using our hosted Jupyter notebooks
   - [PAIRS Dataset List](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/EIS%20DataSet%20Report%20July%202021.pdf)  - description of the many datasets and data set numbers for PAIRs           
+- [PAIRS Start here Notebook Examples](https://github.com/IBM/ibmpairs/tree/master/examples) - some simple climate-related examples of Jupyter notebooks with PAIRS API usage
+<!--- 
 - PAIRS Start here Notebook Examples - 3 Simple examples of Jupyter notebooks with PAIRS API usage
   - [Climate_change](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/PAIRS%20Examples/Climate_change.ipynb) - look at climate change over time
   - [Standardized_Precipitation_Index](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/PAIRS%20Examples/Standardized_Precipitation_Index.ipynb) - look at rainfall patterns over time in the US
   - [WildfireAnalytics (still being updated)](https://github.com/academic-initiative/research-challenge-2021/blob/main/jupyter-platform/PAIRS%20Examples/WildfireAnalytics.ipynb) - look at Wildfire statistics in the world.
-
+--->
 ### Weather Company
 The Weather Company (TWC) is IBM's  premier weather platform and  the largest commercial weather platform in the world. It  used by more people than any other weather data source in the world.  The  has a huge collection of weather history, current weather and forcasts.  
 
