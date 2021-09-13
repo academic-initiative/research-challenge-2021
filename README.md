@@ -11,7 +11,7 @@ Now we are coming together with some of the top research universities: [The Univ
 - [Submissions](#submissions)
 - [Judging](#judging)
 - [Assets](#assets)
-- [Technical Details](#technical-details)
+- [IBM Climate assets and Infrastructure Details](#technical-details)
 - [Getting help](#getting-help)
 
 
@@ -79,7 +79,7 @@ The solutions should be such that they can be extended and expanded upon. You wi
 ## Technical Details
 As part of this challenge we are providing participants with a cloud-based environment with which they can run Jupyter notebooks and explore some of our IBM Pairs and Weather Company examples.  Learn more using the links below.
 - [Jupyter environment](https://ibm.biz/cfcnotebook) ([How to access](/jupyter-platform/how-to-access.md))
-- [Technical details of supplied IBM assets](/jupyter-platform/readme.md)
+- [Technical details of supplied IBM climate and infrastructure assets](/jupyter-platform/readme.md)
 
 ## Getting help
 
