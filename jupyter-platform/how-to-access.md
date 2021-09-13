@@ -1,6 +1,6 @@
 # How to access the Jupyter notebook environment
 
-### Step 1 - Visit the following URL [ibm.biz/cfcnotebook](ibm.biz/cfcnotebook) then click on the 'Sign in with OAuth 2.0' button
+### Step 1 - Visit the following URL [ibm.biz/cfcnotebook](https://ibm.biz/cfcnotebook) then click on the 'Sign in with OAuth 2.0' button
 ![Step 1](images/step1.png)
 
 ### Step 2 - Click on the 'Login with IBMid' button and enter in your IBMid credentials
