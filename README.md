@@ -63,6 +63,8 @@ Submissions must include at least one (1) IBM technology, data set or API, along
 
 At the end of the challenge, we will expect from each team a brief 3 minute video detailing what you’ve created, a description for how you put it all together and who your project is intended to help, and a roadmap to show the judges where your project is going.
 
+[Submit your submissions to the Reseach Challenge here](https://callforcode.typeform.com/to/etYsVC29)
+
 ## Judging
 
 The solutions should be such that they can be extended and expanded upon. You will be judged based on:
